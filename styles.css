@@ -65,7 +65,7 @@
      
      box-sizing: border-box; 
      text-decoration: none; 
-     color: teal;
+     color: black;
 
      float: right;
  }
@@ -121,7 +121,7 @@
      
      box-sizing: border-box; 
      text-decoration: none; 
-     color: teal;
+     color: black;
 
      float: left;
  }
@@ -141,7 +141,7 @@
      
      box-sizing: border-box; 
      text-decoration: none; 
-     color: teal;
+     color: black;
 
      float: left;
  }
